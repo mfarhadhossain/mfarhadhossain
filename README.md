@@ -16,4 +16,4 @@ I study how people use AI agents and what LLMs reveal about people.
 - [Swadesh](https://mfarhadhossain.github.io/project/swadesh/): an on-device iPhone app that tells me who I haven't talked to in a while. It looks for a reminder time that works in both time zones, and if it can't find one, it stays within my calling window.
 - [Birb AI](https://mfarhadhossain.github.io/project/diet-assistant/), a diet assistant: a Telegram bot that estimates calories and macros from meal descriptions and lets the user confirm before saving.
 
-[Website and publications](https://mfarhadhossain.github.io) · [LinkedIn](https://www.linkedin.com/in/mfarhadhossain/) · [Google Scholar](https://scholar.google.com/citations?user=WWrbX4gAAAAJ&hl=en)
+<a href="https://mfarhadhossain.github.io"><img src="assets/website.svg" height="16" alt=""> Website and publications</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mfarhadhossain/"><img src="assets/linkedin.svg" height="16" alt=""> LinkedIn</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=WWrbX4gAAAAJ&amp;hl=en"><img src="assets/google-scholar.svg" height="16" alt=""> Google Scholar</a>
