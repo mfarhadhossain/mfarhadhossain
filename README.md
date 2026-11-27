@@ -1,8 +1,8 @@
 # Farhad Hossain
 
-I'm an MS student in Informatics at Penn State (expected December 2026). Before that I spent about three years at Cefalo building web applications with Java, Kotlin, Spring Boot, Angular and React.
+I'm a Master's student in Informatics at Penn State. Before that I spent about three years at Cefalo building web applications with Java, Kotlin, Spring Boot, Angular and React.
 
-I study how people use AI agents and what LLMs reveal about people.
+Broadly, I study how people use AI agents and how we can create safer AI agents.
 
 ### Current work
 
